@@ -120,7 +120,6 @@ after completing the Active Record Associations section.
 **Total Assignments: (79)**
 
 - Getting Started with SQL (14)
-  - ⭐️ SQL Quiz
 - Table Relations in SQL (10)
   - ⭐️ Table Relations in SQL Quiz
 - Object-Relational Mapping (19)
